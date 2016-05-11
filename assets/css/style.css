@@ -1,0 +1,67 @@
+
+.phase1{
+	margin:0;
+
+}
+h1 {
+
+	padding-top:40px;
+	padding-right: 25px;		
+	padding-bottom: 40px;
+	padding-left: 25px;
+	text-align: center;
+	font-size: 60px;
+	background-color: black;
+	color:white;
+	width: 100%;
+	
+	  }
+	/*did not change color with font-color:white;*/
+
+	}	
+
+h2{
+	font-size: 25px;
+	text-align:center;
+	margin-top:15px;
+	margin-bottom: 15px;
+}
+/*  */
+
+.brilliant{
+	display: block;
+	width: 200px;
+	height:200px;
+	margin-right: 20px;
+}
+
+ul{
+	text-align: center;
+	font-size: 35px
+	
+}
+/* list-style-position:inside; would bring the bullets closer to the text */
+#main-bio,
+#contact-info,
+.brilliant {
+	float: left;
+}
+
+#main-bio{
+	width: 70%;
+	
+}
+
+/* The 70/ 30 ratio to even web pages with 2 sections*/
+#contact-info{
+	width: 20%;
+	list-style-type:none;
+}
+
+.container{
+	width: 600px;
+	margin: auto;
+
+
+}
+
